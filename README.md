@@ -128,7 +128,7 @@ Publish the website in the given URL.
                 <hr style="color: orange;">
             </div>
             <div class="author">
-               <p><b>Deepika S</b></p>
+               <p><b>Ashwath M</b></p>
             </div>
             <div class="pub">
                 SEC
